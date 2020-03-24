@@ -18,7 +18,7 @@ cd MQP/
 
 2.Download the datasets
 
-Download the following datasets and unzip them into data folder.
+Download the following datasets and unzip them into your_data folder.
 All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 
 * Davis
