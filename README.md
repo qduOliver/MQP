@@ -27,8 +27,6 @@ All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 * DAVSOD
 * VOS
 
-Here, we read the collection of data paths in a list file. You can edit the code in any way you like.
-
 3.Download the pre-trained models
 
 Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkMhO0RH01eR0Q)(code:bctu) into pretmodel folder. 
