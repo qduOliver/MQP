@@ -161,7 +161,7 @@ class MQP_VGG(nn.Module):
 
 class MQP_VGG_regression(nn.Module):
     def __init__(self, channel=32):
-        super(CPD_VGG_regression, self).__init__()
+        super(MQP_VGG_regression, self).__init__()
         self.vgg = VGG()
         self.rfb3_1 = RFB(256, channel)
         self.rfb4_1 = RFB(512, channel)
