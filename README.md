@@ -34,7 +34,8 @@ Download the following [pre-trained models]() into pretrained folder. extraction
 run test.py
 
 ## Data
-our saliency detection results can be downloaded on [Baidu Cloud Link],extraction:    .
+our saliency detection results can be downloaded on [Baidu Cloud Link](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ, 
+extraction:3ron.
 
 Thanks to [CPD]  and [PWC-net]
 
