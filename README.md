@@ -8,7 +8,7 @@ The training and testing experiments are conducted using PyTorch 1.0.1 with a si
 * torchvision
 ## Update
 ## Todo
-Upload our code
+Upload our train code
 ## Usage
 1.Clone
 
