@@ -3,7 +3,7 @@
 ## Prerequisites
 The training and testing experiments are conducted using PyTorch 1.0.1 with a single GeForce RTX 2080Ti GPU with 11GB Memory.
 * Windows
-* CUDA v10.1, cudnn v10.1
+* CUDA v10.1, cudnn v.7.5.0
 * PyTorch 1.0.1
 * torchvision
 ## Update
