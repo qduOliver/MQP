@@ -38,7 +38,7 @@ Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkM
 run test.py
 
 ## Data
-our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ)(code:3ron). 
+Our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ)(code:3ron). 
 
 
 Thanks to [CPD](https://github.com/wuzhe71/CPD)  and [PWC-net](https://github.com/sniklaus/pytorch-pwc)
