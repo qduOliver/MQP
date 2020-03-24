@@ -12,7 +12,7 @@ Upload our code
 ## Usage
 1.Clone
 
-git clone https://github.com/MQP.git
+git clone https://github.com/qduOliver/MQP.git
 cd MQP/
 
 2.Download the datasets
@@ -28,16 +28,16 @@ All datasets can be downloaded at this [link]().
 
 3.Download the pre-trained models
 
-Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkMhO0RH01eR0Q) into pretrained folder. extraction:bctu.
+Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkMhO0RH01eR0Q)(code:bctu) into pretmodel folder. 
 
 4.Test
 
 run test.py
 
 ## Data
-our saliency detection results can be downloaded on [Baidu Cloud Link](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ), 
-extraction:3ron.
+our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ)(code:3ron). 
 
-Thanks to [CPD]  and [PWC-net]
+
+Thanks to [CPD](https://github.com/wuzhe71/CPD)  and [PWC-net](https://github.com/sniklaus/pytorch-pwc)
 
 
