@@ -28,7 +28,7 @@ All datasets can be downloaded at this [link]().
 
 3.Download the pre-trained models
 
-Download the following [pre-trained models]() into pretrained folder. extraction:
+Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkMhO0RH01eR0Q) into pretrained folder. extraction:bctu.
 
 4.Test
 
