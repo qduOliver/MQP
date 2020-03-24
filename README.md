@@ -26,6 +26,7 @@ All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 * Visal
 * DAVSOD
 * VOS
+
 Here, we read the collection of data paths in a list file. You can edit the code in any way you like.
 
 3.Download the pre-trained models
