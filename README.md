@@ -19,13 +19,14 @@ cd MQP/
 2.Download the datasets
 
 Download the following datasets and unzip them into data folder.
-All datasets can be downloaded at this [link]().
+All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 
 * Davis
 * Segtrack-v2
 * Visal
 * DAVSOD
 * VOS
+Here, we read the collection of data paths in a list file. You can edit the code in any way you like.
 
 3.Download the pre-trained models
 
