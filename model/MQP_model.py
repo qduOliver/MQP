@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 from model.HolisticAttention import HA
-from model.vgg import B2_VGG
+from model.vgg import VGG
 
 class RFB(nn.Module):
     def __init__(self, in_channel, out_channel):
