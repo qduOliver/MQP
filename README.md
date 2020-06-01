@@ -1,5 +1,6 @@
 # MQP
-## A Universal Scheme to Boost Video Salient Object Detection Performance via Weakly Supervised Motion Quality Perception
+## A universal learning framework to continue boosting the video salient object detection performance via semi-supervised motion quality perception
+
 ## Prerequisites
 The training and testing experiments are conducted using PyTorch 1.1.0 with a single GeForce RTX 2080Ti GPU with 11GB Memory.
 * Windows
