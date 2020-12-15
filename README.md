@@ -1,5 +1,5 @@
 # MQP
-## A universal learning framework to continue boosting the video salient object detection performance via semi-supervised motion quality perception
+## A Novel Video Salient Object Detection Method via Semi-supervised Motion Quality Perception
 
 ## Prerequisites
 The training and testing experiments are conducted using PyTorch 1.1.0 with a single GeForce RTX 2080Ti GPU with 11GB Memory.
@@ -7,9 +7,11 @@ The training and testing experiments are conducted using PyTorch 1.1.0 with a si
 * CUDA v10.1, cudnn v.7.5.0
 * PyTorch 1.1.0
 * torchvision
+
 ## Update
+The training code has been uploaded
 ## Todo
-Upload our training code
+
 ## Usage
 1.Clone
 
@@ -30,14 +32,16 @@ All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 
 3.Download the pre-trained models
 
-Download the following [pre-trained models](https://pan.baidu.com/s/1pf49N8nPCkMhO0RH01eR0Q)(code:bctu) into pretmodel folder. 
+Download the following [pre-trained models](https://pan.baidu.com/s/1gZ4J85rfMWBM_Ozqey1O6A)(code:nncs) into pretmodel folder. 
+
+3.Train
+run train.py
 
 4.Test
-
 run test.py
 
 ## Data
-Our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/1685nRBX8BOx-tp53iiC4NQ)(code:3ron). 
+Our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/102o67mnMmKzHh2jnSYVJdA)(code:uj9v). 
 
 
 Thanks to [CPD](https://github.com/wuzhe71/CPD)  and [PWC-net](https://github.com/sniklaus/pytorch-pwc)
