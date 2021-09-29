@@ -31,8 +31,8 @@ All datasets can be downloaded at this [data link](http://dpfan.net/news/).
 * VOS
 
 3.Download the pre-trained models
-
-Download the following [pre-trained models](https://pan.baidu.com/s/1gZ4J85rfMWBM_Ozqey1O6A)(code:nncs) into pretmodel folder. 
+Because the Baidu Cloud link failed before, it has been updated now, please click the link below.
+Download the following [pre-trained models](https://pan.baidu.com/s/1amXriy8kcrjF76iruk7cjA)(code:nkox) into pretmodel folder. 
 
 3.Train
 run train.py
