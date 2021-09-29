@@ -42,7 +42,7 @@ run train.py
 run test.py
 
 ## Data
-Our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/102o67mnMmKzHh2jnSYVJdA)(code:uj9v). 
+Our saliency detection results can be downloaded on [BaiduCloud](https://pan.baidu.com/s/1amXriy8kcrjF76iruk7cjA)(code:nkox). 
 
 
 Thanks to [CPD](https://github.com/wuzhe71/CPD)  and [PWC-net](https://github.com/sniklaus/pytorch-pwc)
